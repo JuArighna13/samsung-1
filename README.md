@@ -5,3 +5,4 @@ contains questions asked in samsung round with 50 test cases
 3. Mr Kim
 4. Wormhole
 5. Coin Collection
+6. Detect Circle
