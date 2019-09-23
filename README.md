@@ -9,3 +9,4 @@ contains questions asked in samsung round with 50 test cases
 7. CPU/ Product Manufacturing
 8. Bi-Partition
 9. Chess
+10. Monotonic Sequence
